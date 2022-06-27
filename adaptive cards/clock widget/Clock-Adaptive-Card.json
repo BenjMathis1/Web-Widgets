@@ -1,0 +1,21 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+        {
+            "type": "Image",
+            "url": "https://raw.githubusercontent.com/BenjMathis1/Web-Widgets/e75dfd8d9d905df13a725312c63f9f122fca2baf/assets/widget-icon-clock--32px.svg",
+            "width": "16px",
+            "height": "16px"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Clock",
+            "wrap": true,
+            "weight": "Default",
+            "style": "default"
+        }
+    ],
+    "verticalContentAlignment": "Top"
+}
