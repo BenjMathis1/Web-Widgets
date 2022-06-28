@@ -1,0 +1,2 @@
+Adaptive Cards Designer:
+https://adaptivecards.io/designer/
